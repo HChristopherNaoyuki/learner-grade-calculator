@@ -24,7 +24,7 @@ public class Main {
     learner.setTestMark(testMark);
     learner.setExamMark(examMark);
   }
-
+//method to display the final mark
   public static void displayFinalMark(Learner learner) {
     double finalMark = learner.calcFinalMark();
     JOptionPane.showMessageDialog(null, "Final Mark: " + finalMark);
