@@ -1,5 +1,4 @@
 // @author Naoyuki Christopher Higaki [ST10462415]
-// Source Packages/main/Main
 
 import javax.swing.JOptionPane;
 import learner.Learner;
