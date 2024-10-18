@@ -1,5 +1,3 @@
-//  @author Naoyuki Christopher Higaki [ST10462415]
-
 package learner;
 
 public class Learner {
