@@ -1,4 +1,4 @@
-# Learner Task Two Project
+# Basic Learner Grade Calculator
 
 ## Description
 This Java application allows users to input and manage learner information, including full name, subject, and marks from assignments, tests, and exams. The program calculates the final mark as an average of these scores and displays the result in a user-friendly dialog.
